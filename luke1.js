@@ -7,6 +7,7 @@ const readFile = (file) => {
 const numberListFromFile = (data) => {
     return data.split("\n").map(str => parseInt(str))
 }
+
 const vekksort = (numbers) => {
     let currentMax = numbers.slice(0, 1);
     let startValue = currentMax;

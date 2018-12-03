@@ -1,0 +1,1 @@
+// Et juletall er et heltall som har nøyaktig 24 stykk primtallsfaktorer
